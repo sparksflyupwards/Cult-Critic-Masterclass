@@ -94,10 +94,10 @@ color: black
     top: 70%;
     left: 10%;
     z-index: 3;
-    font-size: 50pt;
+    font-size: 40pt;
     font-family: Dancing Script;
     font-style: italic;
-    font-weight: lighter;
+    font-weight: 1pt;
   
     text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
     
@@ -109,7 +109,7 @@ color: black
                  0 0 35px #ff99cc,
                  0 0 40px #ff99cc,
                  0 0 50px #ff99cc,
-                 0 0 75px #ff99cc;
+                 0 0 65px #ff99cc;
       animation: pink-neon-animation 1.5s ease-in-out infinite alternate;
     }
 

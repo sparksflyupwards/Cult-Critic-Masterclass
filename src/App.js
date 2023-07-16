@@ -12,7 +12,7 @@ function App() {
 
       <div className = "tag-name">The Masterclass</div>
 
-      <div className = "cult-crit-tag">Cult Critic</div>
+      <div className = "cult-crit-tag">The Critical Kitty</div>
        
       {/* </header> */}
     </div>
